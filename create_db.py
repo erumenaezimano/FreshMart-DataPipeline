@@ -6,7 +6,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="postgres",
     user="postgres",
-    password="Daimen100%",
+    password="erumena",
     port="5432"
 )
 conn.autocommit = True  # allow database creation

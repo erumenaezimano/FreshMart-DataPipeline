@@ -7,7 +7,7 @@ try:
         host="localhost",
         database="freshmart_db",
         user="postgres",
-        password="Daimen100%", 
+        password="erumena", 
         port="5432"
     )
     print("Connected to FreshMart database")
